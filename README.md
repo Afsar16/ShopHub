@@ -1,4 +1,4 @@
-<h1 align="center">SHOP-Hub 🛒</h1>
+<h1 align="center">SHOP-Hub` 🛒</h1>
 
 ### Setup .env file
 
